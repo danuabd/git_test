@@ -1,1 +1,2 @@
 Hellow World!
+I have changed the config to let me type commit message each time I commit changes to this repository.
